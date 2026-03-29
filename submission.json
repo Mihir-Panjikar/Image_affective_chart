@@ -1,0 +1,8 @@
+{
+  "prompt": "Cinematic wide shot, extreme depth of field. A banquet table that stretches into an infinite dark void. In the foreground, one seat holds a mountain of decadent food, gold, and silk reaching the ceiling, glowing with warm light. Stretching into the distance, the table is perfectly empty, hundreds of silhouettes sitting in near-total darkness. The scale of the pile is gargantuan compared to the tiny figures. Moody, Caravaggio lighting, oil painting texture, 8k, somber atmosphere --ar 16:9 --no text, charts, labels.",
+  "model": "Imagen 4",
+  "dataset_name": "Global Wealth Inequality",
+  "dataset_url": "https://www.oxfam.org/en/tags/wealth-inequality",
+  "insight": "Illustrates the stark reality of extreme resource inequality, demonstrating how the immense abundance hoarded by a single individual exists in direct contrast to the profound deprivation of the masses",
+  "publish_email": true
+}
